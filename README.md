@@ -1,15 +1,20 @@
-# Movie Recommendation System
+# Movie Recommendation System 🎬
 
-A simple AI/ML project that recommends movies based on user preferences using collaborative filtering.
+A simple Python project that recommends movies based on your favorite genre.  
+This is a beginner-friendly project to help you learn Python and basic programming.
 
-## Dataset
-- Used MovieLens dataset from Kaggle.
-
-## How to Run
-1. Install requirements: `pip install -r requirements.txt`
-2. Run the notebook or script.
+---
 
 ## Features
-- Data preprocessing
-- Movie similarity calculation
-- Top-N movie recommendations
+- User selects a movie genre.
+- System recommends 3 popular movies from that genre.
+- Easy to understand and run.
+
+---
+
+## How to Run
+1. Download or clone the repository.
+2. Make sure Python is installed (Python 3.x recommended).
+3. Run the program:
+   ```bash
+   python main.py
